@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804902657559",
+    "firebase_url": "https://nestneeded.firebaseio.com",
+    "project_id": "nestneeded",
+    "storage_bucket": "nestneeded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804902657559:android:958762b1defb4a8e94c652",
+        "android_client_info": {
+          "package_name": "com.nestneeded.nestneeded"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804902657559-ivel9sb1fga3be7pu4pt7l940nfebp65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AuNJljknIA7C8-M8u5DVBAvx7fi_S-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804902657559-ivel9sb1fga3be7pu4pt7l940nfebp65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
